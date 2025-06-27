@@ -122,16 +122,9 @@ Body Temp: 40.8
 
 ---
 
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Connect with Me
 
-<a href="https://github.com/code-with-dipanshu" target="_blank">GitHub</a> • 
- a>
+<a href="https://github.com/code-with-dipanshu" target="_blank">GitHub</a> 
 
 ---
 
